@@ -5,9 +5,9 @@ I'm Arvish.
 I'm a student at the University of Cincinnati pursuing an accelerated engineering degree in Computer Science and MBA. Go Bearcats! 🐻
 
 I am currently:
-- 🔬 Learning full-stack software development.
+- 🔬 Preparing for the `Microsoft Azure DP-100 Exam: Data Scientist Associate`.
 - 🛠 Helping run UC IEEE's hackathon, [MakeUC](https://makeuc.io)
-<!--- 🤖 Gearing up for ``.-->
+- 🤖 Gearing up for `IBM Apprenticeship Program: AI Engineer`.
 - 📖 Academic Coach @TheLearningCommons.
 - ⚡ Fun fact: `Built in 🇮🇳, deployed in 🇺🇸`
 
