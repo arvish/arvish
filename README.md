@@ -2,7 +2,7 @@
 
 I'm Arvish. 
 
-I'm a student at the University of Cincinnati pursuing an accelerated engineering degree in Computer Science and MBA. Go Bearcats! 🐻
+I'm a junior student at the University of Cincinnati pursuing a degree in Computer Science (Honors) and MBA. Go Bearcats! 🐻
 
 I am currently:
 - 🔬 Preparing for the `AWS Solutions Architect Certification`.
