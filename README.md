@@ -31,7 +31,8 @@
 ---
 
 ### 📊 By the Numbers
-[![GitHub Streak](https://streak-stats.demolab.com?user=arvish)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=arvish)
+
 ![Arvish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arvish&theme=tokyo-night)
 
 ---
