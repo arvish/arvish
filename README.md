@@ -1,18 +1,47 @@
-### Hi there 👋
+# Hey, I'm Arvish 👋  
 
-I'm Arvish. 
+> **CS + MBA @ University of Cincinnati (Honors)**  
+> Software Engineer • AI/ML Builder • Full-Ride Scholar Resident @ Headstarters  
 
-I'm a junior student at the University of Cincinnati pursuing a degree in Computer Science (Honors) and MBA. Go Bearcats! 🐻
+---
 
-I am currently:
-- 🔬 Preparing for the `AWS Solutions Architect Certification`.
-- 🛠 Helping run UC IEEE's hackathon, [MakeUC](https://makeuc.io)
-- 🤖 Gearing up for `my next big challenge`!.
-- 📖 Full Ride Scholar Resident @Headstarters.
-- ⚡ Fun fact: `Built in 🇮🇳, deployed in 🇺🇸`
+### 🚀 About Me
+- 🌎 Born in 🇮🇳 • Building in 🇺🇸  
+- 🎓 Senior dual-degree student (B.S. Computer Science + MBA)  
+- 🏆 Full-Ride Scholar Resident @ **Headstarters AI Residency**  
+- ⚡ Focused on **AI/ML, data-driven innovation, and product strategy**  
+- 🎯 Career target: high-impact roles at the intersection of **engineering, AI, and business**  
 
-I keep a cyberspace resume about myself at [arvish.github.io](https://arvish.github.io) and post every picture I've ever clicked on [@urstrulyarvish](https://instagram.com/urstrulyarvish).
+---
 
-In this github, you'll find a few different types of projects: fun hacks I built for me and my friends to mess around with, projects I built to learn something I didn't know before, and some projects that I hope would help a lot more people. 
+### 🔨 What I’m Building
+- **AI Projects**:  
+  - 🧠 [Brain Tumor Detection CNN](https://arvishpandey.com/#projects) – 98%+ AUC/accuracy  
+  - 💳 [Credit Card Fraud Detection](https://arvishpandey.com/#projects) – Streamlit dashboard + XGBoost  
+  - 🏦 [Bank Churn Prediction + LLM Retention Messaging](https://arvishpandey.com/#projects) – AI explanations + auto-emails  
 
- 📫 Please ask me about any of these! Always happy to chat — reach me: [✉️ Email](mailto:arvishpandey@icloud.com).
+- **Web & Systems**:  
+  - 🎥 [Discord Clone](https://github.com/arvish) – Current | Real-time chat + video calls  
+  - ⚡ [Vercel V0 Clone](https://github.com/arvish) – Current | Serverless deploys, Next.js stack  
+
+- **Luxury x Innovation**:  
+  - 🏎️ Global Capstone in Italy with **Pagani + Lamborghini + Bvlgari**  
+  - Strategy on **metaverse-innovation & digital craftsmanship**  
+
+---
+
+### 📊 By the Numbers
+[![Arvish's GitHub Streak](https://streak-stats.demolab.com?user=arvish&theme=tokyonight)](https://git.io/streak-stats)
+![Arvish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arvish&theme=tokyo-night)
+
+---
+
+### 🌐 Connect with Me
+- 🏠 Portfolio: [arvishpandey.com](https://arvishpandey.com)  
+- 💼 LinkedIn: [linkedin.com/in/arvishpandey](https://linkedin.com/in/arvp)  
+- 📸 Instagram: [@urstrulyarvish](https://instagram.com/urstrulyarvish)  
+- ✉️ Email: **arvishpandey@gmail.com**  
+
+---
+
+✨ *"Built in 🇮🇳, deployed in 🇺🇸 — engineering tomorrow with intelligence + fire."*  
